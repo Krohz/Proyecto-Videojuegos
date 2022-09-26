@@ -1,7 +1,7 @@
 # Proyecto-Videojuegos
 Proyecto final de la asignatura : Animacion y videojuegos
 
-Hecho en Unity. 
+Hecho en Unity. <br>
 Capturas del juego: Cursed Castle
 ![image](https://user-images.githubusercontent.com/90885563/192374872-8b1a493c-75c4-462a-8a20-e8441f6d5078.png)
 
